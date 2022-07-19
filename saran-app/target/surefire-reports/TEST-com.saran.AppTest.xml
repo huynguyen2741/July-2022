@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.saran.AppTest" time="0.046" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\HCL\Jul 22\saran-app\target\test-classes;C:\HCL\Jul 22\saran-app\target\classes;C:\Users\henry\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\henry\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value=""/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\henry\AppData\Local\Temp\surefire2884882288103623534\surefirebooter2979682431457237128.jar C:\Users\henry\AppData\Local\Temp\surefire2884882288103623534 2022-07-19T10-40-45_743-jvmRun1 surefire7708667363092324447tmp surefire_04276195178855835912tmp"/>
+    <property name="surefire.test.class.path" value="C:\HCL\Jul 22\saran-app\target\test-classes;C:\HCL\Jul 22\saran-app\target\classes;C:\Users\henry\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\henry\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\henry"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre"/>
+    <property name="basedir" value="C:\HCL\Jul 22\saran-app"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\henry\AppData\Local\Temp\surefire2884882288103623534\surefirebooter2979682431457237128.jar"/>
+    <property name="sun.boot.class.path" value="C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\resources.jar;C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\rt.jar;C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\sunrsasign.jar;C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\jsse.jar;C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\jce.jar;C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\charsets.jar;C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\jfr.jar;C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_222-b10"/>
+    <property name="user.name" value="henry"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.3"/>
+    <property name="java.endorsed.dirs" value="C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\henry\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\henry\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_222"/>
+    <property name="user.dir" value="C:\HCL\Jul 22\saran-app"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\Program Files\PuTTY\;C:\Program Files\PowerShell\7\;C:\ProgramData\chocolatey\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.8.6\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\henry\AppData\Local\Programs\Python\Launcher\;C:\Users\henry\anaconda3;C:\Users\henry\anaconda3\Library\mingw-w64\bin;C:\Users\henry\anaconda3\Library\usr\bin;C:\Users\henry\anaconda3\Library\bin;C:\Users\henry\anaconda3\Scripts;C:\Users\henry\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\henry\AppData\Local\Programs\Python\Python38-32\;C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\bin;C:\Users\henry\AppData\Local\atom\bin;C:\Users\henry\AppData\Local\Programs\Microsoft VS Code\bin;C:\src\flutter\flutter\bin;C:\Program Files\heroku\bin;C:\tools\mysql\current\bin;C:\Users\henry\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="AdoptOpenJDK"/>
+    <property name="java.vm.version" value="25.222-b10"/>
+    <property name="java.ext.dirs" value="C:\Users\henry\AppData\Local\Programs\AdoptOpenJDK\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.saran.AppTest" time="0.015"/>
+</testsuite>
